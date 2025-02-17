@@ -35,6 +35,3 @@ This is a simple URL shortener built with Flask. It allows users to shorten long
 - `GET /<short_url>` – Redirects to the original long URL.
 
 - `GET /stats` – Returns statistics about shortened URLs.
-
-## License
-This project is licensed under the MIT License.
